@@ -23,5 +23,4 @@ Team & Management | Back End Development | Front End Development
 &ensp;in the ability of  team members|&ensp;Programming Interface)|• Infrastructure & cloud management
 • Servant leadership|• Database creation & management,|&ensp;AWS, Heroku, Ansible
 • Communication & conflict|&ensp;relational SQL & noSQL|• Continuous Integration & Deployment
-&ensp;resolution|• MEAN(Mongo Express Angular|&ensp;utilizing Travis & Coveralls
- |&ensp;node)|
+&ensp;resolution|• MEAN(Mongo Express Angular Node)|&ensp;utilizing Travis & Coveralls
