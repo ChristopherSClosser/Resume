@@ -15,19 +15,20 @@
 </h3>
 <hr>
 
-<table>
-  <tbody style="border: none;">
-    <tr>
-      <th align="center">Team & Management</th>
-      <th align="center">Back End Development</th>
-      <th align="center">Front End Development</th>
+<table border="0">
+  <tbody border="0">
+    <tr border="0">
+      <th align="center" width="305">Team & Management</th>
+      <th align="center" width="295">Back End Development</th>
+      <th align="center" width="320">Front End Development</th>
     </tr>
     <tr>
       <td align="left">
-        <ul>
+        <ul align="left">
           <li>Small to large teams(200+)</li>
           <li>Organization & Logistics</li>
           <li>Awareness, empathy, & confidence in the ability of team members</li>
+          <li>Servant leadership</li>
           <li>Communication & conflict resolution</li>
         </ul>
       </td>
