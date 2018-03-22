@@ -16,7 +16,7 @@
 <hr>
 
 <table>
-  <tbody>
+  <tbody style="border: none;">
     <tr>
       <th align="center">Team & Management</th>
       <th align="center">Back End Development</th>
