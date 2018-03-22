@@ -61,8 +61,12 @@
   <tbody border="0">
     <tr border="0">
       <th align="center" width="305">
-        [write-me](http://write-me.readthedocs.io/en/latest/)- *December 2017*</th>
-      <th align="center" width="295">[Social Recon](https://github.com/famavott/osint-scraper/blob/master/README.md) - *November 2017*</th>
+        <a href="http://write-me.readthedocs.io/en/latest/">
+        write-me</a>
+        - *December 2017*</th>
+      <th align="center" width="295"><a href="https://github.com/famavott/osint-scraper/blob/master/README.md">
+      Social Recon</a>
+      - *November 2017*</th>
     </tr>
     <tr>
       <td align="left">
