@@ -15,12 +15,38 @@
 </h3>
 <hr>
 
-Team & Management | Back End Development | Front End Development
-:--|:--|:--
-• Small to large teams(200+)|• TDD with JavaScript, Python, C|• JQuery, HTML templating, CSS
-• Organization & Logistics|• Versioning control apache, git|&ensp;& SASS, React, Angular, Bootstrap,
-• Awareness, empathy, & confidence|• RESTful API(Application|&ensp;Pyramid,  Django, Flask
-&ensp;in the ability of  team members|&ensp;Programming Interface)|• Infrastructure & cloud management
-• Servant leadership|• Database creation & management,|&ensp;AWS, Heroku, Ansible
-• Communication & conflict|&ensp;relational SQL & noSQL|• Continuous Integration & Deployment
-&ensp;resolution|• MEAN(Mongo Express Angular Node)|&ensp;utilizing Travis & Coveralls
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Team & Management</th>
+      <th align="center">Back End Development</th>
+      <th align="center">Front End Development</th>
+    </tr>
+    <tr>
+      <td align="left">
+        <ul>
+          <li>Small to large teams(200+)</li>
+          <li>Organization & Logistics</li>
+          <li>Awareness, empathy, & confidence in the ability of team members</li>
+          <li>Communication & conflict resolution</li>
+        </ul>
+      </td>
+      <td align="left">
+        <ul>
+          <li>TDD with JavaScript, Python, C</li>
+          <li>Versioning control git, apache</li>
+          <li>RESTful API(Application Programming Interface)</li>
+          <li>Database creation & management, relational SQL & noSQL</li>
+          <li>MEAN(Mongo Express Angular Node)</li>
+        </ul>
+      </td>
+      <td align="left">
+        <ul>
+          <li>JQuery, HTML templating, CSS & SASS, React, Angular, Bootstrap, Pyramid,  Django, Flask</li>
+          <li>Infrastructure & cloud management AWS, Heroku, Ansible</li>
+          <li>Continuous Integration & Deployment utilizing Travis & Coveralls</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
