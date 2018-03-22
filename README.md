@@ -60,11 +60,11 @@
 <table border="0">
   <tbody border="0">
     <tr border="0">
-      <th align="center" width="305">
+      <th align="center" width="400">
         <a href="http://write-me.readthedocs.io/en/latest/">
         write-me</a>
         - <em>December 2017<em></th>
-      <th align="center" width="295"><a href="https://github.com/famavott/osint-scraper/blob/master/README.md">
+      <th align="center" width="400"><a href="https://github.com/famavott/osint-scraper/blob/master/README.md">
       Social Recon</a>
       - <em>November 2017<em></th>
     </tr>
