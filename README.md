@@ -51,3 +51,35 @@
     </tr>
   </tbody>
 </table>
+
+<h3 align="center">
+  SOFTWARE PROJECT HIGHLIGHTS
+</h3>
+<hr>
+
+<table border="0">
+  <tbody border="0">
+    <tr border="0">
+      <th align="center" width="305">
+        [write-me](http://write-me.readthedocs.io/en/latest/)- *December 2017*</th>
+      <th align="center" width="295">[Social Recon](https://github.com/famavott/osint-scraper/blob/master/README.md) - *November 2017*</th>
+    </tr>
+    <tr>
+      <td align="left">
+        <p>A pip installable python package, created by a five person team in four days, write-me generates concise, effective, and specific READMEs for Python, Django, Flask, Pyramid, or any project. Searching through the codebase under which it is installed, it uses filepaths, docstrings, web framework specifications, installed requirements, continuous integration (Travis CI and Coveralls badges), and other user-added data to generate a professional and informative README.md file.</p>
+        <ul align="left">
+          <li>Elegant, automatic formatting in Markdown language</li>
+          <li>Command line options for Django, Pyramid, and  Flask</li>
+          <li>Populates installation, testing, dependencies, and local serving instructions.</li>
+        </ul><br>
+        <p>My roles; ensure quality communication, merge ideas, create base functionality, and testing. Work continues to expand and integrate additional languages and frameworks.</p>
+      </td>
+      <td align="left">
+        <p>A Pyramid based web application that locates and compiles information about online personalities.<br><br>
+        Given a username and/or email address, you can easily investigate your own online presence, see if a username and email is already in use, summarize the digital footprint of someone you know, or uncover the person behind a specific username.<br><br>
+        Initially a four day group project started by a four person self managed team, utilizing Python on the backend to request and sift through raw HTML, we made the live internet our database. Team communication and collaboration along with backend and frontend testing, was my primary focus.<br><br>
+        Being a very rushed group project it was exciting to bring this app together, not thinking it would be popular, we now have a fifth member and a translation of our README in French.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
