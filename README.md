@@ -63,10 +63,10 @@
       <th align="center" width="305">
         <a href="http://write-me.readthedocs.io/en/latest/">
         write-me</a>
-        - *December 2017*</th>
+        - <em>December 2017<em></th>
       <th align="center" width="295"><a href="https://github.com/famavott/osint-scraper/blob/master/README.md">
       Social Recon</a>
-      - *November 2017*</th>
+      - <em>November 2017<em></th>
     </tr>
     <tr>
       <td align="left">
