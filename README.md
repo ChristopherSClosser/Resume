@@ -50,7 +50,7 @@
           • JQuery, HTML templating, CSS &<br>
             &ensp;SASS, React, Angular, Bootstrap,<br>
             &ensp;Pyramid,  Django, Flask<br>
-          • Linux, Windows, iOS non web GUI<br>
+          • Linux, Windows, iOS, & non web GUI<br>
           • Infrastructure & cloud management<br>
             &ensp;AWS, Heroku, Ansible<br>
           • Continuous Integration & Deployment<br>
