@@ -108,35 +108,34 @@
 
 2001 - PRESENT *volunteer position from 2001-2004*
 
-- Equipment purchases, setup, operation, teardown, maintenance & troubleshooting.
-- Responsible for setup and teardown crews, all technical operations, artist/speaker relations.
-- Record and master audio for weekly podcast in addition to website creation and maintenance.
+- Equipment purchases, setup, operation, teardown, maintenance & troubleshooting
+- Responsible for setup and teardown crews, all technical operations, artist/speaker relations
+- Record and master audio for weekly podcast in addition to website creation and maintenance
 
 #### General Contractor
 *Construction, Renovation & Remodel*
 
 2005 - PRESENT
 
-- Commercial and residential single to 100+ multi unit apartments, from the crawlspace to the roof and all things in between.
-- Expertly manage subcontractors, inspections, budgets, materials, lead-times, and project deadlines.
-- Specializing in customer relations and highly detailed finish carpentry.
+- Commercial and residential single to 100+ multi unit apartments, from the crawlspace to the roof and all things in between
+- Expertly manage subcontractors, inspections, budgets, materials, lead-times, and project deadlines
+- Specializing in customer relations and highly detailed finish carpentry
 
 #### Active Duty Air Force, McChord AFB, WA
 *Fuels Journeyman, Network & Systems Administrator*
 
 1999 - 2005 Fuels Journeyman
 
-- Directed and supervised receipt, storage, & issue operations for petroleum, cryogenic, & demineralized water products.
-- Ensured quality control through stringent laboratory testing procedures.
-- Maintained & operated all fuels facilities and equipment.
+- Directed and supervised receipt, storage, & issue operations for petroleum, cryogenic, & demineralized water products
+- Ensured quality control through stringent laboratory testing procedures
+- Maintained & operated all fuels facilities and equipment
 
 2001 - 2005 Network & Systems Administrator
 
-- Responsible for all aspects of in house network, off-site data measurement equipment, computers, printers, & user accounts.
-- Automatic Tank Gauging equipment and software applying upgrades & troubleshooting issues.
-- Maintained and updated extensive inventory and accounting databases.
-- Created program to query dbs effectively eliminating math and human errors, ultimately saving more than two man hours daily and enabling paperless filing.
-- Managed OS merger (including onsite servers) from Windows NT to Windows 2000 and again to Windows XP.
+- Responsible for all aspects of in house network, off-site data measurement equipment, computers, printers, & user accounts
+- Automatic Tank Gauging equipment and software applying upgrades & troubleshooting issues
+- Maintained and updated extensive inventory and accounting databases, created program to query dbs effectively eliminating math and human errors, ultimately saving more than two man hours daily and enabling paperless filing
+- Managed OS merger (including onsite servers) from Windows NT to Windows 2000 and again to Windows XP
 
 <h3 align="center">
   EDUCATION & CERTIFICATION
@@ -148,20 +147,20 @@
 
 February 2017 - December 2017 - *Code Fellows, Seattle, WA*
 
-- Full stack web development, data structures and algorithms, received certificates in both JavaScript and Python.
+- Full stack web development, data structures and algorithms, received certificates in both JavaScript and Python
 
 #### Community College of the Air Force
 *Logistics & Management*
 
 June 2004 - Fuels Craftsman - *Sheppard AFB, TX*
 
-- Fuels related subjects taught at a supervisory level such as: quality control, accounting, & cryogenics.
+- Fuels related subjects taught at a supervisory level such as: quality control, accounting, & cryogenics
 
 October 2003 - Airman Leadership School - *McChord AFB, WA*
 
-- Intensive course in leadership & management, managerial communications, total quality management.
+- Intensive course in leadership & management, managerial communications, total quality management
 
 #### Graphic Arts
 1997-1998 - *Eastern Oklahoma County Technology Center, OK*
 
-- All elements of the graphic arts industry from concept to dark room to press.
+- All elements of the graphic arts industry from concept to dark room to press
