@@ -107,7 +107,7 @@
 
 2001 - PRESENT *volunteer position from 2001-2004*
 
-- Equipment purchases, setup, operation, teardown, & troubleshooting.
+- Equipment purchases, setup, operation, teardown, maintenance & troubleshooting.
 - Responsible for setup and teardown crews, all technical operations, artist/speaker relations.
 - Record and master audio for weekly podcast in addition to website creation and maintenance.
 
