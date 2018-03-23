@@ -101,7 +101,7 @@
 </h3>
 <hr>
 
-### Northwest Community Church
+#### Northwest Community Church
 *Production Manager | Sound Reinforcement Technician | A/V Consultant | Building Supervisor*
 
 2001 - PRESENT *volunteer position from 2001-2004*
@@ -110,7 +110,7 @@
 - Responsible for setup and teardown crews, all technical operations, artist/speaker relations.
 - Record and master audio for weekly podcast in addition to website creation and maintenance.
 
-### General Contractor
+#### General Contractor
 *Construction, Renovation & Remodel*
 
 2005 - PRESENT
@@ -119,7 +119,7 @@
 - Expertly manage subcontractors, inspections, budgets, materials, lead-times, and project deadlines.
 - Specializing in customer relations and highly detailed finish carpentry.
 
-### Active Duty Air Force, McChord AFB, WA
+#### Active Duty Air Force, McChord AFB, WA
 *Fuels Journeyman, Network & Systems Administrator*
 
 1999 - 2005 Fuels Journeyman
@@ -141,14 +141,14 @@
 </h3>
 <hr>
 
-### Code Fellows Academy
+#### Code Fellows Academy
 *Advanced Software Development*
 
 February 2017 - December 2017 - *Code Fellows, Seattle, WA*
 
 - Full stack web development, data structures and algorithms, received certificates in both JavaScript and Python.
 
-### Community College of the Air Force
+#### Community College of the Air Force
 *Logistics & Management*
 
 June 2004 - Fuels Craftsman - *Sheppard AFB, TX*
@@ -159,7 +159,7 @@ October 2003 - Airman Leadership School - *McChord AFB, WA*
 
 - Intensive course in leadership & management, managerial communications, total quality management.
 
-### Graphic Arts
+#### Graphic Arts
 1997-1998 - *Eastern Oklahoma County Technology Center, OK*
 
 - All elements of the graphic arts industry from concept to dark room to press.
