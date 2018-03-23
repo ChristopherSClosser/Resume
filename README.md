@@ -24,29 +24,29 @@
     </tr>
     <tr>
       <td align="left">
-        <ul align="left">
-          <li>Small to large teams(200+)</li>
-          <li>Organization & Logistics</li>
-          <li>Awareness, empathy, & confidence in the ability of team members</li>
-          <li>Servant leadership</li>
-          <li>Communication & conflict resolution</li>
-        </ul>
+        <p align="left">
+          • Small to large teams(200+)<br>
+          • Organization & Logistics<br>
+          • Awareness, empathy, & confidence in the ability of team members<br>
+          • Servant leadership<br>
+          • Communication & conflict resolution<br>
+        </p>
       </td>
       <td align="left">
-        <ul>
-          <li>TDD with JavaScript, Python, C</li>
-          <li>Versioning control git, apache</li>
-          <li>RESTful API(Application Programming Interface)</li>
-          <li>Database creation & management, relational SQL & noSQL</li>
-          <li>MEAN(Mongo Express Angular Node)</li>
-        </ul>
+        <p>
+          • TDD with JavaScript, Python, C<br>
+          • Versioning control git, apache<br>
+          • RESTful API(Application Programming Interface)<br>
+          • Database creation & management, relational SQL & noSQL<br>
+          • MEAN(Mongo Express Angular Node)<br>
+        </p>
       </td>
       <td align="left">
-        <ul>
-          <li>JQuery, HTML templating, CSS & SASS, React, Angular, Bootstrap, Pyramid,  Django, Flask</li>
-          <li>Infrastructure & cloud management AWS, Heroku, Ansible</li>
-          <li>Continuous Integration & Deployment utilizing Travis & Coveralls</li>
-        </ul>
+        <p>
+          • JQuery, HTML templating, CSS & SASS, React, Angular, Bootstrap, Pyramid,  Django, Flask<br>
+          • Infrastructure & cloud management AWS, Heroku, Ansible<br>
+          • Continuous Integration & Deployment utilizing Travis & Coveralls<br>
+        </p>
       </td>
     </tr>
   </tbody>
