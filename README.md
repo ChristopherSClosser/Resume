@@ -31,6 +31,7 @@
             &ensp;in the ability of team members<br>
           • Servant leadership<br>
           • Communication & conflict resolution<br>
+          • Delegation & mediation<br>
         </p>
       </td>
       <td align="left">
@@ -125,14 +126,14 @@
 
 1999 - 2005 Fuels Journeyman
 
-- Direct and supervise receipt, storage, and issue operations for petroleum, cryogenic, & demineralized water products.
-- Ensure quality control through stringent laboratory testing procedures.
-- Maintain & operate all fuels facilities and equipment.
+- Directed and supervised receipt, storage, & issue operations for petroleum, cryogenic, & demineralized water products.
+- Ensured quality control through stringent laboratory testing procedures.
+- Maintained & operated all fuels facilities and equipment.
 
 2001 - 2005 Network & Systems Administrator
 
 - Responsible for all aspects of in house network, off-site data measurement equipment, computers, printers, & user accounts.
-- Maintained and updated Automatic Tank Gauging equipment and software.
+- Automatic Tank Gauging equipment and software applying upgrades & troubleshooting issues.
 - Maintained and updated extensive inventory and accounting databases.
 - Created program to query dbs effectively eliminating math and human errors, ultimately saving more than two man hours daily and enabling paperless filing.
 - Managed OS merger (including onsite servers) from Windows NT to Windows 2000 and again to Windows XP.
