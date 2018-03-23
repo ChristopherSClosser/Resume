@@ -38,22 +38,22 @@
           • TDD with JavaScript, Python, C<br>
           • Versioning control git, apache<br>
           • RESTful API(Application<br>
-            &enmsp;Programming Interface)<br>
+            &ensp;Programming Interface)<br>
           • Database creation & management,<br>
-            &emsp;relational SQL & noSQL<br>
+            &ensp;relational SQL & noSQL<br>
           • MEAN(Mongo Express Angular<br>
-            &emsp;Node)<br>
+            &ensp;Node)<br>
         </p>
       </td>
       <td align="left">
         <p>
           • JQuery, HTML templating, CSS &<br>
-            &emsp;SASS, React, Angular, Bootstrap,<br>
-            &emsp;Pyramid,  Django, Flask<br>
+            &ensp;SASS, React, Angular, Bootstrap,<br>
+            &ensp;Pyramid,  Django, Flask<br>
           • Infrastructure & cloud management<br>
-            &emsp;AWS, Heroku, Ansible<br>
+            &ensp;AWS, Heroku, Ansible<br>
           • Continuous Integration & Deployment<br>
-            &emsp;utilizing Travis & Coveralls<br>
+            &ensp;utilizing Travis & Coveralls<br>
         </p>
       </td>
     </tr>
