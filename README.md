@@ -27,7 +27,8 @@
         <p align="left">
           • Small to large teams(200+)<br>
           • Organization & Logistics<br>
-          • Awareness, empathy, & confidence in the ability of team members<br>
+          • Awareness, empathy, & confidence<br>
+            &emsp;in the ability of team members<br>
           • Servant leadership<br>
           • Communication & conflict resolution<br>
         </p>
@@ -36,16 +37,23 @@
         <p>
           • TDD with JavaScript, Python, C<br>
           • Versioning control git, apache<br>
-          • RESTful API(Application Programming Interface)<br>
-          • Database creation & management, relational SQL & noSQL<br>
-          • MEAN(Mongo Express Angular Node)<br>
+          • RESTful API(Application<br>
+            &enmsp;Programming Interface)<br>
+          • Database creation & management,<br>
+            &emsp;relational SQL & noSQL<br>
+          • MEAN(Mongo Express Angular<br>
+            &emsp;Node)<br>
         </p>
       </td>
       <td align="left">
         <p>
-          • JQuery, HTML templating, CSS & SASS, React, Angular, Bootstrap, Pyramid,  Django, Flask<br>
-          • Infrastructure & cloud management AWS, Heroku, Ansible<br>
-          • Continuous Integration & Deployment utilizing Travis & Coveralls<br>
+          • JQuery, HTML templating, CSS &<br>
+            &emsp;SASS, React, Angular, Bootstrap,<br>
+            &emsp;Pyramid,  Django, Flask<br>
+          • Infrastructure & cloud management<br>
+            &emsp;AWS, Heroku, Ansible<br>
+          • Continuous Integration & Deployment<br>
+            &emsp;utilizing Travis & Coveralls<br>
         </p>
       </td>
     </tr>
