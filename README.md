@@ -28,7 +28,7 @@
           • Small to large teams(200+)<br>
           • Organization & Logistics<br>
           • Awareness, empathy, & confidence<br>
-            &emsp;in the ability of team members<br>
+            &ensp;in the ability of team members<br>
           • Servant leadership<br>
           • Communication & conflict resolution<br>
         </p>
