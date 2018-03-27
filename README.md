@@ -36,7 +36,7 @@ I am a full-stack software developer and Air Force veteran with more than 15 yea
       <td align="left">
         <p>
           • TDD with JavaScript, Python, C<br>
-          • Versioning control git, apache<br>
+          • Versioning control git, github<br>
           • RESTful API(Application<br>
             &ensp;Programming Interface)<br>
           • Database creation & management,<br>
